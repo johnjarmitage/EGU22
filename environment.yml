@@ -1,0 +1,14 @@
+name: EGU22 
+channels:
+  - conda-forge
+dependencies:
+  # the basics
+  - python
+  - rasterio
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyterlab
+  - voila
+  - rise
+  - ipywidgets
