@@ -1,0 +1,6 @@
+{
+    "voilaConfiguration": {
+        "enable_nbextensions": true,
+        "template": "reveal"
+    }
+}
