@@ -1,0 +1,9 @@
+subject: Presentation
+venue:
+  title: EGU22
+  url: https://www.egu22.eu/
+open_access: true
+license:
+  text: CC-BY-4.0
+  code: MIT
+github: johnjarmitage/EGU22
