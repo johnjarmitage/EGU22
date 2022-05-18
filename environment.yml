@@ -12,3 +12,4 @@ dependencies:
   - voila
   - rise
   - ipywidgets
+  - nodejs<17
