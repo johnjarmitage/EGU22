@@ -1,0 +1,48 @@
+version: alpha
+sync:
+  - folder: egu22
+web:
+  name: John Armitage
+  domains:
+    - jarmitage.curve.space
+  logo: public/logo.svg
+  logoText: EGU22
+  twitter: johnjarmitage
+  nav:
+    - title: EGU22
+      url: /egu22
+  sections:
+    - title: EGU22
+      folder: egu22
+  actions:
+    - title: GitHub
+      url: https://github.com/johnjarmitage/EGU22
+frontmatter:
+  authors:
+    - name: John Armitage
+      orcid: 0000-0000-0000-0001
+      corresponding: true
+      email: john@email.com
+      affiliations:
+        - IFP Energies Nouvelles
+    - name: Nolwen Venisse
+      affiliations:
+        - ENS
+    - name: Christine Franke
+      affiliations:
+        - Mines ParisTech
+    - name: Claire Alary
+      affiliations:
+        - IMT Europe Nord
+    - name: Morgan Delaporte
+      affiliations:
+        - IMT Europe Nord
+  subject: Presentation
+  venue:
+    title: EGU22
+    url: https://www.egu22.eu/
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  github: johnjarmitage/EGU22
