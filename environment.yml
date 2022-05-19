@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - seaborn
   - jupyterlab
+  - jupyterlab-spellchecker
   - voila
   - rise
   - ipywidgets

@@ -15,3 +15,7 @@ The transport of sediment within a catchment is a complex interaction between th
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnjarmitage/EGU22/HEAD?labpath=presentation.ipynb)
 
 Hit the `voila` button to make it pretty.
+
+## Get more detail in curve.space
+
+Checkout this repo as a [webpage](https://jarmitage.curve.space/)

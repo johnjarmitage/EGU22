@@ -12,3 +12,8 @@ topmodel-1.png
 topmodel-2.png
 topmodel-3.png
 topmodel.png
+instal-curvenote.sh
+node_modules/
+package-lock.json
+package.json
+
