@@ -5,7 +5,7 @@ web:
   name: John Armitage
   domains:
     - jarmitage.curve.space
-  logo: public/logo.svg
+  logo: egu22/logo.svg
   logoText: EGU22
   twitter: johnjarmitage
   nav:
