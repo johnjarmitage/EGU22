@@ -3,7 +3,6 @@ site:
   title: John Armitage
   domains:
     - jarmitage.curve.space
-  logo: egu22/logo.svg
   logoText: EGU22
   twitter: johnjarmitage
   nav:
