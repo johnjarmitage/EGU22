@@ -2,7 +2,7 @@ version: 1
 site:
   title: John Armitage
   domains:
-    - stevejpurves.curve.space
+    - jarmitage.curve.space
   logo: egu22/logo.svg
   logoText: EGU22
   twitter: johnjarmitage
