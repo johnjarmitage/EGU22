@@ -1,8 +1,6 @@
-version: alpha
-sync:
-  - folder: egu22
-web:
-  name: John Armitage
+version: 1
+site:
+  title: John Armitage
   domains:
     - jarmitage.curve.space
   logo: egu22/logo.svg
@@ -11,9 +9,9 @@ web:
   nav:
     - title: EGU22
       url: /egu22
-  sections:
-    - title: EGU22
-      folder: egu22
+  projects:
+    - path: EGU22
+      slug: egu22
   actions:
     - title: GitHub
       url: https://github.com/johnjarmitage/EGU22
