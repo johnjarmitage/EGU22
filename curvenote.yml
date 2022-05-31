@@ -10,7 +10,7 @@ site:
     - title: EGU22
       url: /egu22
   projects:
-    - path: EGU22
+    - path: egu22
       slug: egu22
   actions:
     - title: GitHub
